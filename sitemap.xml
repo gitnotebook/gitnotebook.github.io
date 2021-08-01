@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gitnotebook.github.io/contact/index.html</loc>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://gitnotebook.github.io/posts/de806a9a.html</loc>
     
     <lastmod>2021-08-01</lastmod>
@@ -44,14 +51,14 @@
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/about/index.html</loc>
+    <loc>http://gitnotebook.github.io/census/index.html</loc>
     
     <lastmod>2021-08-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/archives/index.html</loc>
+    <loc>http://gitnotebook.github.io/friends/index.html</loc>
     
     <lastmod>2021-08-01</lastmod>
     
@@ -65,13 +72,6 @@
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/census/index.html</loc>
-    
-    <lastmod>2021-08-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://gitnotebook.github.io/resource/index.html</loc>
     
     <lastmod>2021-08-01</lastmod>
@@ -79,14 +79,14 @@
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/contact/index.html</loc>
+    <loc>http://gitnotebook.github.io/about/index.html</loc>
     
     <lastmod>2021-08-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/friends/index.html</loc>
+    <loc>http://gitnotebook.github.io/archives/index.html</loc>
     
     <lastmod>2021-08-01</lastmod>
     
@@ -107,14 +107,14 @@
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/posts/e3e08109.html</loc>
+    <loc>http://gitnotebook.github.io/posts/d74d8b76.html</loc>
     
     <lastmod>2021-08-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/posts/d74d8b76.html</loc>
+    <loc>http://gitnotebook.github.io/posts/e3e08109.html</loc>
     
     <lastmod>2021-08-01</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/List/music/index.html</loc>
+    <loc>http://gitnotebook.github.io/List/movies/index.html</loc>
     
     <lastmod>2021-08-01</lastmod>
     
@@ -142,7 +142,7 @@
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/List/movies/index.html</loc>
+    <loc>http://gitnotebook.github.io/List/music/index.html</loc>
     
     <lastmod>2021-08-01</lastmod>
     
@@ -150,13 +150,6 @@
   
   <url>
     <loc>http://gitnotebook.github.io/List/galleries/%E7%82%AB%E9%85%B7%E8%B7%91%E8%BD%A6/index.html</loc>
-    
-    <lastmod>2021-08-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://gitnotebook.github.io/List/galleries/%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA/index.html</loc>
     
     <lastmod>2021-08-01</lastmod>
     
@@ -177,7 +170,14 @@
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/List/galleries/%E4%B9%96%E5%B7%A7%E5%B0%8F%E7%8B%97/index.html</loc>
+    <loc>http://gitnotebook.github.io/List/galleries/%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA/index.html</loc>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitnotebook.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB/index.html</loc>
     
     <lastmod>2021-08-01</lastmod>
     
@@ -191,14 +191,14 @@
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
+    <loc>http://gitnotebook.github.io/List/galleries/%E4%B9%96%E5%B7%A7%E5%B0%8F%E7%8B%97/index.html</loc>
     
     <lastmod>2021-08-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB/index.html</loc>
+    <loc>http://gitnotebook.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
     
     <lastmod>2021-08-01</lastmod>
     
@@ -298,13 +298,6 @@
   </url>
   
   <url>
-    <loc>http://gitnotebook.github.io/tags/Github/</loc>
-    <lastmod>2021-08-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://gitnotebook.github.io/tags/hexo-blog-lucky/</loc>
     <lastmod>2021-08-01</lastmod>
     <changefreq>daily</changefreq>
@@ -313,6 +306,13 @@
   
   <url>
     <loc>http://gitnotebook.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2021-08-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://gitnotebook.github.io/tags/Github/</loc>
     <lastmod>2021-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
